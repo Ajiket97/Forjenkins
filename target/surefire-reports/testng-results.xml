@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-09T22:56:10 IST" name="Surefire suite" finished-at="2024-05-09T22:56:47 IST" duration-ms="37006">
+    <groups>
+    </groups>
+    <test started-at="2024-05-09T22:56:10 IST" name="Surefire test" finished-at="2024-05-09T22:56:47 IST" duration-ms="37006">
+      <class name="com.test.TestCase">
+        <test-method signature="verifyEmailAndPassRequriedOrNot()[pri:0, instance:com.test.TestCase@31e5415e]" started-at="2024-05-09T22:56:10 IST" name="verifyEmailAndPassRequriedOrNot" finished-at="2024-05-09T22:56:27 IST" duration-ms="16962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmailAndPassRequriedOrNot -->
+        <test-method signature="verifyMaritalStatusRequriedOrNot()[pri:0, instance:com.test.TestCase@31e5415e]" started-at="2024-05-09T22:56:27 IST" name="verifyMaritalStatusRequriedOrNot" finished-at="2024-05-09T22:56:37 IST" duration-ms="9766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMaritalStatusRequriedOrNot -->
+        <test-method signature="verifyMobilenum()[pri:0, instance:com.test.TestCase@31e5415e]" started-at="2024-05-09T22:56:37 IST" name="verifyMobilenum" finished-at="2024-05-09T22:56:47 IST" duration-ms="10226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMobilenum -->
+      </class> <!-- com.test.TestCase -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
